@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="190" viewBox="0 0 840 190" fill="none">
+<defs><clipPath id="av"><circle cx="740" cy="95" r="54"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="839" height="189" rx="16" fill="#060912" stroke="#1b2337"/>
+<text x="32" y="46" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.2" fill="#22d3ee">PILOT</text>
+<text x="32" y="92" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#e8eef8">Mahmud</text>
+<text x="32" y="124" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d3e3">PHP developer. Working on amadere-monorepo right now.</text>
+<text x="32" y="160" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8a95aa">4 followers · 55 repositories · ★ 2 stars</text>
+<circle cx="740" cy="95" r="54" fill="#0a0f1d"/>
+<circle cx="740" cy="95" r="56" stroke="#22d3ee" stroke-width="4"/>
+</svg>
