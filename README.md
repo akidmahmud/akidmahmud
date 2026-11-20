@@ -11,7 +11,7 @@
 <p align="center">
 <!-- MISSIONS:START -->
 
-[Pearson-Specter-Litt-Legal-RAG-Legal-Document-Rag](https://github.com/akidmahmud/Pearson-Specter-Litt-Legal-RAG-Legal-Document-Rag) · [Real-Time-Face-Detection-and-Classification-Using-CNN-in-Colab](https://github.com/akidmahmud/Real-Time-Face-Detection-and-Classification-Using-CNN-in-Colab) · [amadere-monorepo](https://github.com/akidmahmud/amadere-monorepo) · [sales-agent](https://github.com/akidmahmud/sales-agent) · [videoediting-portfolio](https://github.com/akidmahmud/videoediting-portfolio) · [akidmahmud](https://github.com/akidmahmud/akidmahmud)
+[Pearson-Specter-Litt-Legal-RAG-Legal-Document-Rag](https://github.com/akidmahmud/Pearson-Specter-Litt-Legal-RAG-Legal-Document-Rag) · [Real-Time-Face-Detection-and-Classification-Using-CNN-in-Colab](https://github.com/akidmahmud/Real-Time-Face-Detection-and-Classification-Using-CNN-in-Colab) · [akidmahmud](https://github.com/akidmahmud/akidmahmud) · [amadere-monorepo](https://github.com/akidmahmud/amadere-monorepo) · [sales-agent](https://github.com/akidmahmud/sales-agent) · [videoediting-portfolio](https://github.com/akidmahmud/videoediting-portfolio)
 
 <!-- MISSIONS:END -->
 </p>
